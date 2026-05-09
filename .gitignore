@@ -26,15 +26,6 @@ ENV/
 env/
 .venv/
 
-# Data and outputs
-data/raw/*.csv
-data/raw/*.zip
-data/processed/
-outputs/models/*.pth
-outputs/models/*.pkl
-outputs/oof/*.csv
-outputs/submissions/*.csv
-outputs/logs/*.log
 
 # Jupyter
 .ipynb_checkpoints/
